@@ -1,0 +1,66 @@
+Title: Parpaing
+
+----
+
+Description: The idea of the Parpaing lamp is born during a visit on an architectural project site. One evening, a group of workers built a makeshift light to help them get on with their work. At their disposal were scraps of metalwork, electricians' and bricklayers' leftovers... They spontaneously assemble a vertical mast using a painted steel bar, a flat sheet of metal as a base, a breeze block as a weight, and a vertical neon tube. and a vertical neon tube that they fix to the mast with clamps. Superb spontaneity. This object is imbued with a striking simplicity and poetry. There is joy and beauty in the obviousness of assembling these fragments to create a purely utilitarian object.
+
+----
+
+Gallery:
+
+- file://So7sNSttV0hhDd1c
+- file://qvW6sljH5IyrJhgO
+- file://2P8H5mzvBSNjb6cl
+- file://YpsUwMA5EPWk6yWL
+- file://fWQQe9T1EK2bsbRt
+- file://95g1N7iIsSTb2y2M
+- file://zVBcvF5Ou9O9Y5iw
+- file://1K4ZeF7IrNYErZAl
+
+----
+
+Type: Modular shelf
+
+----
+
+Environment: Interior
+
+----
+
+Itemheight: 215
+
+----
+
+Itemdepth: 10
+
+----
+
+Itemwidth: 10
+
+----
+
+Year: 2022
+
+----
+
+Price: 1000
+
+----
+
+Seotitle: Parpaing
+
+----
+
+Seotags: lamp, architect
+
+----
+
+Seometa: Discover Parpaing Lamp by Heger @ Demumieux
+
+----
+
+Shareimage: 
+
+----
+
+Uuid: OFprKUbPeRcll2du

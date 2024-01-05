@@ -1,0 +1,34 @@
+// About
+
+#about, #legal {
+  padding: 0 var(--main-pad);
+  background-color: black;
+  color: white;
+}
+
+#page__header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: var(--banner-height);
+  margin-bottom: calc(var(--main-pad) * 2);
+}
+
+#page__content {
+//   max-width: var(--main-mw);
+  section {
+    &:not(:last-of-type) {
+      margin-bottom: calc(var(--main-pad) * 2);
+    }
+    ul,
+    p {
+      padding-left: calc(var(--main-pad) * 2);
+    }
+    ul {
+      margin-bottom: var(--main-pad);
+    }
+  }
+}
+
+// Legal
+

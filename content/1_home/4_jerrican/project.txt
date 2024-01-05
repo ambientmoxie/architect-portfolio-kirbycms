@@ -1,0 +1,67 @@
+Title: Jerrican
+
+----
+
+Description: The Jerrican lamp was inspired by a trip to Djerba, in Tunisia. On the side of a road, a red glow appears in the distance. A bright point light that surprises, its vibration electrifies the night sky. As you approach, you see a man sitting on a camping chair, dozing under an illuminated petrol can. He is one of the moped petrol sellers, he and many others running the refuelling points necessary for the running of local life. This light becomes a reassuring landmark, crossing the night and the passages.
+
+----
+
+Gallery:
+
+- file://3w2wpIPtBDcruKx2
+- file://diX1smTYMBFVVaw7
+- file://yxP5akrEFZY1imcw
+- file://fNxjaYflvDGVzVSL
+- file://Kbi1UpkKYrRGv2Vy
+- file://fjzsrX71azh7Iis1
+- file://qWZPmaPZ2n8sKalm
+- file://pmeNVL7TbIBaK4Us
+- file://7I23lbpRXyq67It8
+
+----
+
+Type: Lamp
+
+----
+
+Environment: Interior
+
+----
+
+Itemheight: 185
+
+----
+
+Itemdepth: 10
+
+----
+
+Itemwidth: 10
+
+----
+
+Year: 2022
+
+----
+
+Price: 1000
+
+----
+
+Seotitle: Jericcan
+
+----
+
+Seotags: lamp, architect
+
+----
+
+Seometa: Discover the Jericcan Lamp by Heger @ Demumieux
+
+----
+
+Shareimage: 
+
+----
+
+Uuid: VzgC29kwIB1asaom

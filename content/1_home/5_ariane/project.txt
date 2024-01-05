@@ -1,0 +1,71 @@
+Title: Ariane
+
+----
+
+Description: The Jerrican lamp was inspired by a trip to Djerba, in Tunisia. On the side of a road, a red glow appears in the distance. A bright point light that surprises, its vibration electrifies the night sky. As you approach, you see a man sitting on a camping chair, dozing under an illuminated petrol can. He is one of the moped petrol sellers, he and many others running the refuelling points necessary for the running of local life. This light becomes a reassuring landmark, crossing the night and the passages.
+
+----
+
+Gallery:
+
+- file://rJXEjpgKuOR1At0F
+- file://FEciuAkcPwzqCVn8
+- file://j2eBrxXyCx8Bjqsd
+- file://C8i9HnQEmUyXZk4W
+- file://u4VmuJcw3dqLNq3I
+- file://EuzKW98Tj2CjMWnL
+- file://gwFP8Hx5lV813ZQP
+- file://l1iKO1CKPiq5G8OY
+- file://YV6cwXjc3nog139v
+- file://3pMMNMyCYi86BeNU
+- file://97dYuqRxNRj9hShz
+- file://aUEDOoy9ESFvIVHf
+- file://KjEQRaF9JeRFXwXB
+
+----
+
+Type: Lamp
+
+----
+
+Environment: Interior
+
+----
+
+Itemheight: 215
+
+----
+
+Itemdepth: 10
+
+----
+
+Itemwidth: 10
+
+----
+
+Year: 2023
+
+----
+
+Price: 1000
+
+----
+
+Seotitle: Ariane
+
+----
+
+Seotags: lamp, architect
+
+----
+
+Seometa: Discover the Ariane Lamp by Heger @ Demumieux
+
+----
+
+Shareimage: 
+
+----
+
+Uuid: wmNt7O8KyjHUtYp3

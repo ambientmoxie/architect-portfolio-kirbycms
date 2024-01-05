@@ -1,0 +1,33 @@
+p,
+span,
+h1,
+h2,
+h3,
+a,
+ul {
+  font-size: var(--main-fs);
+  font-weight: normal;
+}
+
+ul {
+  li {
+    list-style-type: none;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#cursor-container {
+  position: fixed;
+  top: 10px;
+  font-size: 20px;
+  margin: -18px 0 0 -20px;
+  pointer-events: none;
+  z-index: 30;
+  color: white;
+  mix-blend-mode: difference;
+  opacity: 0;
+}

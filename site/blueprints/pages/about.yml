@@ -1,0 +1,70 @@
+title: about
+image:
+  back: gray-500
+  icon: false
+  query: false
+
+tabs:
+  # CONTENT TAB
+  # ------------------
+  content:
+    sections:
+      content:
+        type: fields
+        fields:
+          # TICKER
+          # ------------------
+          ticker:
+            label: Ticker
+            type: text
+            width: 1/4
+          # HOT NEWS
+          # ------------------
+          hotNews:
+            label: Hot news
+            type: textarea
+            size: medium
+            width: 3/4
+          # BIO
+          # ------------------
+          biography:
+            label: Biography
+            type: textarea
+            size: medium
+            # width: 3/4
+          # REACHABILITY
+          # ------------------
+          reachability:
+            label: Reachability
+            type: text
+            # width: 1/4
+
+          # SOLO SHOWS
+          # ------------------
+          exhibitions:
+            label: Exhibitions
+            type: structure
+            fields:
+              name:
+                label: Name of the show
+                type: text
+              place:
+                label: Gallery
+                type: text
+                width: 1/2
+              adress:
+                label: Adress
+                type: text
+                width: 1/2
+              startingDate:
+                label: Starting date
+                type: date
+                width: 1/2
+              endingDate:
+                label: Ending date
+                type: date
+                width: 1/2
+
+  # META TAB
+  # ------------------
+  meta: tabs/seo/meta

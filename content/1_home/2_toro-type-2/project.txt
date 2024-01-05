@@ -1,0 +1,78 @@
+Title: Toro - Type 2
+
+----
+
+Description: The Toro chair is characterised by its silhouette, filigree and discreet, as well as for the evocative «horn» shape of its chairback. At first sight, the object seems fragile, an impression that contrasts with the solidity of the whole. There’s a difference between what you see and what you feel. This ambiguity creates a visual experience and lived experience. Through its shape, the chair invites you to sit in various positions: From the side, from the front, or even upside down, leaning on the backchair, in reference to the «indiscreet» position in the 19th century. This freedom of movement and interpretation makes it an everyday and domestic object.
+
+----
+
+Gallery:
+
+- file://RcnmOClgsq6gk6UN
+- file://cmrLwfIJ22YWNhob
+- file://CHYQmBXToC1JNmaI
+- file://MYWbfMhrAsMWxlaI
+- file://DPZOXKvVik5YYSRf
+- file://SJVgVKs0USHSRuvO
+- file://6kgpiDgJuyKupczi
+- file://jLoCVaHm2KBU1QGs
+- file://NFJTF5mDon2dDU8P
+- file://9ofbV6qumjqLT8Zn
+- file://r1m754AQSgFb8Kkg
+- file://Kl1ueSTWAWJKOhb5
+
+----
+
+Type: Chair
+
+----
+
+Environment: Interior
+
+----
+
+Itemheight: 75
+
+----
+
+Itemdepth: 43
+
+----
+
+Itemwidth: 42
+
+----
+
+Year: 2022
+
+----
+
+Price: 1000
+
+----
+
+Seotitle: my first project
+
+----
+
+Seotags: project
+
+----
+
+Seometa: Hello this is my first project
+
+----
+
+Shareimage: 
+
+----
+
+Itemlength: 42
+
+----
+
+Specs: 
+
+----
+
+Uuid: Rc6dlUGTSwQdtqhD

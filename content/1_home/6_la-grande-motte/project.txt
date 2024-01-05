@@ -1,0 +1,69 @@
+Title: La grande motte
+
+----
+
+Description: The La Grande Motte lamp is designed to embody our vision of this unique city, invoking the themes of wind and light. Our primary aim was to create a light that would fit into any home or space, appealing to a wide range of people looking to bring a piece of this world into their lives. Thanks to its versatile design, this luminaire can be adapted to different interior styles, whether contemporary, minimalist or even classic. Ease of use is a key consideration during the design process. We aim to develop an intuitive object with simple functions, allowing people to adjust the lighting to suit their needs. Once switched off, the luminaire becomes a sculpture whose shape suggests the imagination of the place and its emblematic forms. Three versions are available: The Pine Forest in green, the Sun in yellow and the Sea in blue. Each lamp features a combination of two painted aluminium sails. The main sail is white and the second, smaller sail is coloured. They are mounted on a central mast so that they can be turned to the desired position.
+
+----
+
+Gallery:
+
+- file://LTWjXKU1Mohr8Nlr
+- file://oRzu5Ae6d34mpoO4
+- file://nCsblxOS4FHgkJTI
+- file://qaHhZginr2OcrUmg
+- file://ZhBCKuNkHcsN1VYE
+- file://d3kWmmYqcrf9YM1D
+- file://fE8R8HS8wUDB4MXu
+- file://PS01kGqPafidfTqt
+- file://bHZMOX279i5KARkD
+- file://a7H72U08YTY6tbGP
+- file://knA0YOKmNE1JQrE9
+
+----
+
+Type: Lamp
+
+----
+
+Environment: Interior
+
+----
+
+Itemheight: 215
+
+----
+
+Itemdepth: 10
+
+----
+
+Itemwidth: 10
+
+----
+
+Year: 2023
+
+----
+
+Price: 1000
+
+----
+
+Seotitle: La grande motte
+
+----
+
+Seotags: lamp, architect
+
+----
+
+Seometa: Discover La grande motte Lamp by Heger @ Demumieux
+
+----
+
+Shareimage: 
+
+----
+
+Uuid: xmfFtKrNHKMzBzFc

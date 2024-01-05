@@ -1,0 +1,63 @@
+Title: Pole plug
+
+----
+
+Description: Compressed floor and ceiling strut system prototype. Modular shelves made up of 4 parts. This project is characterised by the use of simple metal parts which, when assembled, offer a choice of shelf layouts and other possible uses. The system is made up of 4 families of elements: - Compression legs These are the primary support elements. Steel tubes approximately 3m long are compressed at the top and bottom by screw-on glides. Once locked, these legs can support heavy loads. These tubes are drilled every 30 cm or so to allow support arms to be fitted. - The support arms These are fitted into the holes in the compression legs. They are solid round aluminium bars with a total length of around 60 cm. These support arms are used to insert the crosspieces that support the shelves. - The crosspieces These laser-cut parts are 5 mm thick aluminium crosspieces. They fit around the support arms and are secured by cleat systems. Precision cutting is required to minimise the clearance between the support arms and the crosspieces. - Shelf tops These wooden plates are perforated with 3 cm holes. The long edges (exposed at the front and back of the shelves) are rounded. The type of wood, its composition and possible treatment have yet to be defined.
+
+----
+
+Gallery:
+
+- file://5XJ1Mll5TS8w9vwp
+- file://7vRz6ctrfRbOhVaI
+- file://kwOkniMVIGbwvbMf
+- file://zaxq5NCgvICJIq88
+- file://atj6I84iTkZzP4Ia
+
+----
+
+Type: Modular shelf
+
+----
+
+Environment: Interior
+
+----
+
+Itemheight: 300
+
+----
+
+Itemdepth: 20
+
+----
+
+Itemwidth: 20
+
+----
+
+Year: 2024
+
+----
+
+Price: 1000
+
+----
+
+Seotitle: La grande motte
+
+----
+
+Seotags: lamp, architect
+
+----
+
+Seometa: Discover La grande motte Lamp by Heger @ Demumieux
+
+----
+
+Shareimage: 
+
+----
+
+Uuid: sMX4uhjLXhV2XyLI

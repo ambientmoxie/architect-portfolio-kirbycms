@@ -1,0 +1,80 @@
+Title: About
+
+----
+
+Ticker: paris design week
+
+----
+
+Hotnews:
+
+From September 7 to 11, we'll be presenting a selection of our work at Paris Design Week, at the Espace Commines in the Marais district, on two separate stands:
+
+Stand 1: Common Qualities - four designs
+Gathered under the theme COMMON QUALITIES - FOUR DESIGNS, four chairs designed by four Parisian design, architecture or CGI artist studios take a sober, expressive look at the technical assembly of a design archetype. A back, a seat, legs: four variations. With Camille Viallet and Théo Leclercq (Our Society), Raphaël Boursier (Mesure Studio) and Simon Geringer.
+
+Stand 2: Heger et Demumieux - Light Motiv
+A selection of objects will be presented, including the resin version of the Toro chair and the Ariane luminaire. This selection follows on from the exhibitions at Milan Design Week and the Venice Design Biennale.
+
+----
+
+Biography: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure nesciunt voluptas rerum illo perspiciatis veritatis repudiandae odit alias cum exercitationem nostrum consequuntur, reiciendis dicta nihil quas tenetur perferendis, unde distinctio obcaecati! Voluptates nemo, aspernatur expedita quas mollitia ea dicta accusantium neque! Expedita accusantium esse amet incidunt quis aspernatur quaerat molestiae deleniti eveniet neque debitis accusamus nostrum commodi, inventore perspiciatis officia, beatae temporibus nulla est id. Neque fugit explicabo laudantium eum sunt. Quis ipsam temporibus maxime. Excepturi accusamus aliquid placeat tempora quo ipsa quae aliquam hic dolor, deserunt, voluptatibus dignissimos enim, inventore harum nesciunt? Sed temporibus aliquam alias ipsam nam molestias.
+
+----
+
+Reachability: We respond to you from Monday to Friday. From 9:30 AM to 7:00 PM.
+
+----
+
+Exhibitions:
+
+- 
+  name: Exposition Light Motiv
+  place: 'Galerie ICI - Jean-Pierre Morand'
+  adress: '19 rue des Filles du Calvaire - 75003 Paris'
+  startingdate: 2023-03-06
+  endingdate: 2023-03-11
+- 
+  name: Milan Design Week
+  place: Isola Design Gallery
+  adress: Via Pastrengo 14
+  startingdate: 2023-04-18
+  endingdate: 2023-04-23
+- 
+  name: Venice Design Biennial
+  place: Bocciofila San Sebastiano
+  adress: Fondamenta Briati 2371 Dorsoduro
+  startingdate: 2023-10-20
+  endingdate: 2023-10-20
+- 
+  name: Paris Design Week
+  place: Espace Commines
+  adress: '17 rue Commines - 75003 Paris'
+  startingdate: 2023-09-07
+  endingdate: 2023-09-16
+- 
+  name: Maison Saint Joseph
+  place: MSJ
+  adress: Crépy-en-Vallois
+  startingdate: 2023-10-27
+  endingdate: 2023-12-29
+
+----
+
+Seotitle: About page
+
+----
+
+Seotags: about
+
+----
+
+Seometa: This is the about page
+
+----
+
+Shareimage: 
+
+----
+
+Uuid: zK4G3FE99H8ZP1Qn
